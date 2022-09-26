@@ -1,6 +1,6 @@
 package creditManager;
 
-public class creditManager {
+public class CreditManager {
 
 	public void calculate() {
 		System.out.println("kredi hesaplama");
