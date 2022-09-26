@@ -12,7 +12,7 @@ public class CreditManager {
 }
 // class değilde interface ile yaparsak.
 
-// interface creditManager{
+// interface CreditManager{
 //	 void calculater();
 //	 void add();
 // }
