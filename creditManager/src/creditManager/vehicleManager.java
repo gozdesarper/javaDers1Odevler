@@ -1,6 +1,6 @@
 package creditManager;
 
-public class vehicleManager extends creditManager{ // interface implements oluyor.
+public class VehicleManager extends CreditManager{ // interface implements oluyor.
 	public void calculate() {
 		System.out.println("vehicle kredi hesaplandı");
 }
